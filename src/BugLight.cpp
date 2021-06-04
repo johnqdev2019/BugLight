@@ -5,4 +5,4 @@ void blink(int pin){
   delay(50);
   digitalWrite(pin, LOW);
   delay(4500);
-}
+ }
