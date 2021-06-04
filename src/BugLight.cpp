@@ -1,4 +1,4 @@
-#include "BugLight.h"
+#include "BugLight.h" //this is a header file
 
 void blink(int pin){
   digitalWrite(pin, HIGH);
